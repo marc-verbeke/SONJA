@@ -1,4 +1,5 @@
 Personeelsdata Opschoning & Validatie (SONJA)
++1
 Dit Python-script (SONJA) automatiseert het proces van het samenvoegen, valideren en opschonen van personeelsgegevens. Het script is ontworpen om ruwe data uit verschillende bronnen te transformeren naar een uniform formaat voor gebruik in een exploitatieprogramma.
 +3
 
